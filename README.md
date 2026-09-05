@@ -15,7 +15,7 @@
 
 1. **Clone the repository:**
       ```bash
-   git clone https://github.com/Jeyaarikaran/Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch.git
+   git clone https://github.com/niteshbhandari23/Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch.git
    cd Building-an-AI-Classifier-Identifying-Cats-Dogs-Pandas-with-PyTorch
    ```
 
